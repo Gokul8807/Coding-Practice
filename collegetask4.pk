@@ -1,0 +1,6 @@
+while True:
+    print("This while loop will never stop!")
+ 
+#for _ in iter(int,1):
+  #  print("This while loop will never stop!")
+  
